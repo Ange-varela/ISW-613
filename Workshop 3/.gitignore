@@ -1,0 +1,9 @@
+# Variables privadas
+.env
+
+# Conexion a la base de datos
+utils/database.php
+
+# Fotografias de perfil
+uploads/profile_pictures/*
+!uploads/profile_pictures/.gitkeep
